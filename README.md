@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasonereid
-Azure Solutions Architect Expert | AWS | Python | Cybersecurity | Cloud Security and Compliance | Terraform
+Azure Solutions Architect Expert | AWS | Python | PowerShell | Cybersecurity | Cloud Security and Compliance | Terraform
 https://www.linkedin.com/in/jason-reid-906a4a229/
 
 <!---
