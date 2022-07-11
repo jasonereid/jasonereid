@@ -9,10 +9,10 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
   - [Python - Static HTML Resume Generator](https://github.com/jasonereid/static-html-resume-project)
 
 - Beginner Projects
-  - [Python - Simple Mad Libs Game]https://github.com/jasonereid/mad-libs-game
-  - [Python - Simple Zip Program]https://github.com/jasonereid/Python-zip-project
-  - [Python - Simple Calculator with Input Validation]https://github.com/jasonereid/Simple-calculator-with-input-validation
-  - [Python - Random Password Generator]https://github.com/jasonereid/Random-password-generator
+  - [Python - Simple Mad Libs Game](https://github.com/jasonereid/mad-libs-game)
+  - [Python - Simple Zip Program](https://github.com/jasonereid/Python-zip-project)
+  - [Python - Simple Calculator with Input Validation](https://github.com/jasonereid/Simple-calculator-with-input-validation)
+  - [Python - Random Password Generator](https://github.com/jasonereid/Random-password-generator)
 
 **SCRIPTING PROJECTS**
 - Terraform Scripts 
