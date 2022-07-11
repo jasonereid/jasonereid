@@ -6,7 +6,7 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 - Advanced Projects
 
 - Intermediate Projects
-  - https://github.com/jasonereid/static-html-resume-project
+  - [Python - Static HTML Resume Generator](https://github.com/jasonereid/static-html-resume-project)
 
 - Beginner Projects
   - https://github.com/jasonereid/mad-libs-game
