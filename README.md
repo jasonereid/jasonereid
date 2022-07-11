@@ -6,7 +6,6 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 - Advanced Projects
 
 - Intermediate Projects
-Python:
   - https://github.com/jasonereid/static-html-resume-project
 
 - Beginner Projects
@@ -15,7 +14,7 @@ Python:
   - https://github.com/jasonereid/Simple-calculator-with-input-validation
   - https://github.com/jasonereid/Random-password-generator
 
-** SCRIPTING PROJECTS **
+**SCRIPTING PROJECTS**
 - Terraform Scripts 
   - https://github.com/jasonereid/Terraform-Configs-Azure
 - PowerShell Scripts
