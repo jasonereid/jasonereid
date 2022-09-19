@@ -2,6 +2,13 @@
 Azure Solutions Architect Expert | AWS | Python | PowerShell | Cybersecurity | Cloud Security and Compliance | Terraform
 https://www.linkedin.com/in/jason-reid-906a4a229/
 
+**DEVSECOPS PROJECTS**
+
+- Aqua / aquactl
+- K8s
+- Docker
+- Terraform Security Automation
+
 **PROGRAMMING PROJECTS**
 - Advanced Projects
 
