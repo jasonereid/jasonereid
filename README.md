@@ -11,6 +11,7 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 
 **PROGRAMMING PROJECTS**
 - Advanced Projects
+  - [Python - IN PROGRESS - Stock Trading App](https://github.com/jasonereid/Stock-trading-App)
 
 - Intermediate Projects
   - [Python - Static HTML Resume Generator](https://github.com/jasonereid/static-html-resume-project)
