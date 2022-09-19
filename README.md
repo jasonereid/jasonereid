@@ -31,4 +31,4 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 - SQL Database Scripts 
   - https://github.com/jasonereid/update-sql-db-with-azure-users
 - JSON Azure Policy
-  - [NSG no edits policy]
+  - [NSG no edits allowed JSON policy](https://github.com/jasonereid/JSON-Azure-Policies/commit/076bac185b732d949397248f4c15e31cdea36da1)
