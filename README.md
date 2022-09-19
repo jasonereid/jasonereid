@@ -4,7 +4,7 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 
 **DEVSECOPS PROJECTS**
 
-- Aqua / aquactl
+- [Aqua / aquactl](https://github.com/jasonereid/aquactl)
 - K8s
 - Docker
 - Terraform Security Automation
