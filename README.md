@@ -30,3 +30,5 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
   - https://github.com/jasonereid/Azure-NSG-diagnostic-logging
 - SQL Database Scripts 
   - https://github.com/jasonereid/update-sql-db-with-azure-users
+- JSON Azure Policy
+  - [NSG no edits policy]
