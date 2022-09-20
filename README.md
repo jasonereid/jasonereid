@@ -7,7 +7,8 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 - [Aqua / aquactl](https://github.com/jasonereid/aquactl)
 - [Kubernetes](https://github.com/jasonereid/k8s)
 - Docker
-- Terraform Security Automation
+- Terraform
+  - https://github.com/jasonereid/Terraform-Configs-Azure
 
 **PROGRAMMING PROJECTS**
 - Advanced Projects
@@ -23,8 +24,6 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
   - [Python - Random Password Generator](https://github.com/jasonereid/Random-password-generator)
 
 **SCRIPTING PROJECTS**
-- Terraform Scripts 
-  - https://github.com/jasonereid/Terraform-Configs-Azure
 - PowerShell Scripts
   - https://github.com/jasonereid/Azure-Diagnostic-Logging-PowerShell-Scripts
   - https://github.com/jasonereid/Azure-NSG-diagnostic-logging
