@@ -6,8 +6,7 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 
 - [Kubernetes](https://github.com/jasonereid/k8s)
 - Docker
-- Terraform
-  - https://github.com/jasonereid/Terraform-Configs-Azure
+- [Terraform](https://github.com/jasonereid/Terraform-Configs-Azure)
 - Jenkins
 - GitHub Actions
 - Azure DevOps
