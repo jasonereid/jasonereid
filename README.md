@@ -2,18 +2,33 @@
 Azure Solutions Architect Expert | AWS | Python | PowerShell | Cybersecurity | Cloud Security and Compliance | Terraform
 https://www.linkedin.com/in/jason-reid-906a4a229/
 
-**DEVOPS PROJECTS**
+# DevOps Projects
 
+## Infrastructure as Code (IaC)
+- [Terraform](https://github.com/jasonereid/Terraform-Configs-Azure)
+- Azure Bicep
+- AWS CloudFormation
+
+## Containers and Container Orchestration
 - [Kubernetes](https://github.com/jasonereid/k8s)
 - Docker
-- [Terraform](https://github.com/jasonereid/Terraform-Configs-Azure)
+- runC
+
+## CI/CD
 - Jenkins
 - GitHub Actions
 - Azure DevOps
+
+## Linux
 - [Linux commands](https://github.com/jasonereid/linux-commands)
 
-**SECURITY PROJECTS**
+## Monitoring and Logging
+- 
+
+## Security
 - [Aqua / aquactl](https://github.com/jasonereid/aquactl)
+
+## Programming / Scripting
 
 **PROGRAMMING PROJECTS**
 - Advanced Projects
