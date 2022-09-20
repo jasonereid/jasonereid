@@ -10,6 +10,7 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 - Jenkins
 - GitHub Actions
 - Azure DevOps
+- Linux commands
 
 **SECURITY PROJECTS**
 - [Aqua / aquactl](https://github.com/jasonereid/aquactl)
