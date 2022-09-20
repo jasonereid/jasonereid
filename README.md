@@ -8,8 +8,12 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 - Docker
 - Terraform
   - https://github.com/jasonereid/Terraform-Configs-Azure
-- [Aqua / aquactl](https://github.com/jasonereid/aquactl)
 - Jenkins
+- GitHub Actions
+- Azure DevOps
+
+**SECURITY PROJECTS**
+- [Aqua / aquactl](https://github.com/jasonereid/aquactl)
 
 **PROGRAMMING PROJECTS**
 - Advanced Projects
