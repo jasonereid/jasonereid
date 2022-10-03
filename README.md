@@ -11,6 +11,7 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 
 ## Containers and Container Orchestration
 - [Kubernetes](https://github.com/jasonereid/k8s)
+- Kustomize
 - [Docker](https://github.com/jasonereid/docker)
 - runC
 
