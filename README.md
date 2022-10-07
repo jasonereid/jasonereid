@@ -6,7 +6,7 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 
 ## Infrastructure as Code (IaC)
 - [Terraform](https://github.com/jasonereid/Terraform-Configs-Azure)
-- Ansible
+- [Ansible](https://github.com/jasonereid/ansible)
 - Azure Bicep
 - AWS CloudFormation
 
