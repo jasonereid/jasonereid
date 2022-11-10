@@ -7,14 +7,10 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 ## Infrastructure as Code (IaC)
 - [Terraform](https://github.com/jasonereid/Terraform-Configs-Azure)
 - [Ansible](https://github.com/jasonereid/ansible)
-- Azure Bicep
-- AWS CloudFormation
 
 ## Containers and Container Orchestration
 - [Kubernetes](https://github.com/jasonereid/k8s)
-- Kustomize
 - [Docker](https://github.com/jasonereid/docker)
-- runC
 
 ## CI/CD
 - Jenkins
@@ -41,6 +37,7 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
   - [Python - Static HTML Resume Generator](https://github.com/jasonereid/static-html-resume-project)
 
 - Beginner Projects
+  - [100 Days of Code](https://github.com/jasonereid/100daysofcode/blob/main/README.md)
   - [Python - Simple Mad Libs Game](https://github.com/jasonereid/mad-libs-game)
   - [Python - Simple Zip Program](https://github.com/jasonereid/Python-zip-project)
   - [Python - Simple Calculator with Input Validation](https://github.com/jasonereid/Simple-calculator-with-input-validation)
