@@ -31,6 +31,7 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 
 **PROGRAMMING PROJECTS**
 - Advanced Projects
+  - [Python/Flask/MySQL - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
   - [Python - IN PROGRESS - Stock Trading App](https://github.com/jasonereid/Stock-trading-App)
 
 - Intermediate Projects
