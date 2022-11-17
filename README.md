@@ -45,7 +45,7 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 
 **SCRIPTING PROJECTS**
 - KQL Scripts
-  = https://github.com/jasonereid/kql-scripts/blob/main/README.md
+  - https://github.com/jasonereid/kql-scripts/blob/main/README.md
 - PowerShell Scripts
   - https://github.com/jasonereid/Azure-Diagnostic-Logging-PowerShell-Scripts
   - https://github.com/jasonereid/Azure-NSG-diagnostic-logging
