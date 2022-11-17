@@ -44,6 +44,8 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
   - [Python - Random Password Generator](https://github.com/jasonereid/Random-password-generator)
 
 **SCRIPTING PROJECTS**
+- KQL Scripts
+  = https://github.com/jasonereid/kql-scripts/blob/main/README.md
 - PowerShell Scripts
   - https://github.com/jasonereid/Azure-Diagnostic-Logging-PowerShell-Scripts
   - https://github.com/jasonereid/Azure-NSG-diagnostic-logging
