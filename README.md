@@ -1,6 +1,22 @@
-- 👋 Hi, I’m @jasonereid
-Azure Solutions Architect Expert | AWS | Python | PowerShell | Cybersecurity | Cloud Security and Compliance | Terraform
-https://www.linkedin.com/in/jason-reid-906a4a229/
+- 👋 Hi, I’m @jasonereid | https://www.linkedin.com/in/jason-reid-906a4a229/
+
+# Programming Projects
+
+- Advanced Projects
+  - [Python/Flask/MySQL - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
+  - [Python - IN PROGRESS - Stock Trading App](https://github.com/jasonereid/Stock-trading-App)
+
+- Intermediate Projects
+  - [Python - Static HTML Resume Generator](https://github.com/jasonereid/static-html-resume-project)
+
+- Beginner Projects
+  - [100 Days of Code](https://github.com/jasonereid/100daysofcode/blob/main/README.md)
+  - [Python - Simple Mad Libs Game](https://github.com/jasonereid/mad-libs-game)
+  - [Python - Simple Zip Program](https://github.com/jasonereid/Python-zip-project)
+  - [Python - Simple Calculator with Input Validation](https://github.com/jasonereid/Simple-calculator-with-input-validation)
+  - [Python - Random Password Generator](https://github.com/jasonereid/Random-password-generator)
+
+
 
 # DevOps Projects
 
@@ -26,23 +42,6 @@ https://www.linkedin.com/in/jason-reid-906a4a229/
 
 ## Security
 - [Aqua / aquactl](https://github.com/jasonereid/aquactl)
-
-## Programming / Scripting
-
-**PROGRAMMING PROJECTS**
-- Advanced Projects
-  - [Python/Flask/MySQL - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
-  - [Python - IN PROGRESS - Stock Trading App](https://github.com/jasonereid/Stock-trading-App)
-
-- Intermediate Projects
-  - [Python - Static HTML Resume Generator](https://github.com/jasonereid/static-html-resume-project)
-
-- Beginner Projects
-  - [100 Days of Code](https://github.com/jasonereid/100daysofcode/blob/main/README.md)
-  - [Python - Simple Mad Libs Game](https://github.com/jasonereid/mad-libs-game)
-  - [Python - Simple Zip Program](https://github.com/jasonereid/Python-zip-project)
-  - [Python - Simple Calculator with Input Validation](https://github.com/jasonereid/Simple-calculator-with-input-validation)
-  - [Python - Random Password Generator](https://github.com/jasonereid/Random-password-generator)
 
 **SCRIPTING PROJECTS**
 - KQL Scripts
