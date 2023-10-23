@@ -4,6 +4,8 @@
 
 ## Java Projects
 1. [Hello World](https://github.com/jasonereid/java/blob/main/helloworld)
+2. [Working with Strings and Integers](https://github.com/jasonereid/java/blob/main/variables-strings-and-ints)
+3. 
 
 ## Python Projects
 - Advanced Projects
