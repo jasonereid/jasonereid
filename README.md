@@ -2,6 +2,10 @@
 
 # Programming Projects
 
+## Java Projects
+1. Hello World
+
+## Python Projects
 - Advanced Projects
   - [Python/Flask/MySQL - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
   - [Python - IN PROGRESS - Stock Trading App](https://github.com/jasonereid/Stock-trading-App)
