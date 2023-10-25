@@ -14,6 +14,7 @@
 
 - Intermediate Projects
   - [Python - Static HTML Resume Generator](https://github.com/jasonereid/static-html-resume-project)
+  - [Invoice management system]()
 
 - Beginner Projects
   - [100 Days of Code](https://github.com/jasonereid/100daysofcode/blob/main/README.md)
