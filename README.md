@@ -2,9 +2,11 @@
 
 # Programming Projects
 
+## JavaScript Projects
+  - [JavaScript/HTML/CSS - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
+
 ## Python Projects
 - Advanced Projects
-  - [Python/Flask/MySQL - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
   - [Python - IN PROGRESS - Stock Trading App](https://github.com/jasonereid/Stock-trading-App)
 
 - Intermediate Projects
