@@ -2,11 +2,6 @@
 
 # Programming Projects
 
-## Java Projects
-1. [Hello World](https://github.com/jasonereid/java/blob/main/helloworld)
-2. [Working with Strings and Integers](https://github.com/jasonereid/java/blob/main/variables-strings-and-ints)
-3. 
-
 ## Python Projects
 - Advanced Projects
   - [Python/Flask/MySQL - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
@@ -23,7 +18,10 @@
   - [Python - Simple Calculator with Input Validation](https://github.com/jasonereid/Simple-calculator-with-input-validation)
   - [Python - Random Password Generator](https://github.com/jasonereid/Random-password-generator)
 
-
+## Java Projects
+1. [Hello World](https://github.com/jasonereid/java/blob/main/helloworld)
+2. [Working with Strings and Integers](https://github.com/jasonereid/java/blob/main/variables-strings-and-ints)
+3. 
 
 # DevOps Projects
 
