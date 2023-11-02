@@ -2,6 +2,8 @@
 
 # Programming Projects
 
+## [The Odin Project](https://github.com/jasonereid/odin)
+
 ## JavaScript Projects
   - [JavaScript/HTML/CSS - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
 
