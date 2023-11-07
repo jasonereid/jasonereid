@@ -3,6 +3,7 @@
 # Programming Projects
 
 ## Node.JS stuff
+  - (Node.JS practice apps and sites)[https://github.com/jasonereid/node-js-practice]
 
 ## [The Odin Project](https://github.com/jasonereid/odin)
 
