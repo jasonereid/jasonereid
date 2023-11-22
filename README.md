@@ -8,7 +8,7 @@
 ## [The Odin Project](https://github.com/jasonereid/odin)
 - Cool 1 page form with password matching JavaScript - https://jasonereid.github.io/odin-sign-up-form/
 - Landing page - just HTML/CSS - https://jasonereid.github.io/odin/
-- Table assignment HTML CSS
+- Table assignment HTML CSS - https://github.com/jasonereid/odin/blob/main/tables.html - https://github.com/jasonereid/odin/blob/main/odintables.css
 - Landing page: https://jasonereid.github.io/odin/
 - My version of Fizz Buzz https://github.com/jasonereid/odin/blob/main/small-projects/fizzbuzz.js
 - Basic Caesar Cypher written in Ruby https://github.com/jasonereid/odin/blob/main/small-projects/cypher.rb
