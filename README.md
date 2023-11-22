@@ -8,6 +8,12 @@
 ## [The Odin Project](https://github.com/jasonereid/odin)
 - Cool 1 page form with password matching JavaScript - https://jasonereid.github.io/odin-sign-up-form/
 - Landing page - just HTML/CSS - https://jasonereid.github.io/odin/
+- Table assignment HTML CSS
+- Landing page: https://jasonereid.github.io/odin/
+- My version of Fizz Buzz https://github.com/jasonereid/odin/blob/main/small-projects/fizzbuzz.js
+- Basic Caesar Cypher written in Ruby https://github.com/jasonereid/odin/blob/main/small-projects/cypher.rb
+- Basic Rock paper Scissors in JavaScript using Alerts https://github.com/jasonereid/odin/blob/main/small-projects/rock-paper-scissors.js
+- Stock picker app https://github.com/jasonereid/odin/blob/main/small-projects/stock_picker.rb
 
 ## JavaScript Projects
   - [JavaScript/HTML/CSS - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
