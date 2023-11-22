@@ -6,6 +6,8 @@
   - [Node.JS practice apps and sites](https://github.com/jasonereid/node-js-practice)
 
 ## [The Odin Project](https://github.com/jasonereid/odin)
+- Cool 1 page form with password matching JavaScript - https://jasonereid.github.io/odin-sign-up-form/
+- Landing page - just HTML/CSS - https://jasonereid.github.io/odin/
 
 ## JavaScript Projects
   - [JavaScript/HTML/CSS - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
