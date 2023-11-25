@@ -6,6 +6,7 @@
   - [Node.JS practice apps and sites](https://github.com/jasonereid/node-js-practice)
 
 ## [The Odin Project](https://github.com/jasonereid/odin)
+- Ruby - Tic Tac Toe console game for two players that re-draws the board between rounds - https://github.com/jasonereid/odin/blob/main/small-projects/tic-tac-toe.rb
 - Cool 1 page form with password matching JavaScript - https://jasonereid.github.io/odin-sign-up-form/
 - Landing page - just HTML/CSS - https://jasonereid.github.io/odin/
 - Table assignment HTML CSS - https://github.com/jasonereid/odin/blob/main/tables.html - https://github.com/jasonereid/odin/blob/main/odintables.css
