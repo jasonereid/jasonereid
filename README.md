@@ -4,6 +4,9 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
 
 # RUBY
 
+### Intermediate projects:
+- 2D Window test - https://github.com/jasonereid/ruby-stuff/blob/main/2d%20window%20test.rb
+
 ### Beginner projects:
 - Improved version of Caesar Cypher with encrypt/decrypt options - [https://github.com/jasonereid/odin/blob/main/small-projects/encryptor.rb](https://github.com/jasonereid/odin/blob/main/small-projects/encrypt-decrypt.rb)
 - My version of Fizz Buzz https://github.com/jasonereid/odin/blob/main/small-projects/fizzbuzz.js
