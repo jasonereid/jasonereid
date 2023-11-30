@@ -5,6 +5,7 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
 # RUBY
 
 ### Beginner projects:
+- Improved version of Caesar Cypher - https://github.com/jasonereid/odin/blob/main/small-projects/encryptor.rb
 - My version of Fizz Buzz https://github.com/jasonereid/odin/blob/main/small-projects/fizzbuzz.js
 - Basic Caesar Cypher written in Ruby https://github.com/jasonereid/odin/blob/main/small-projects/cypher.rb
 - Basic Rock paper Scissors in JavaScript using Alerts https://github.com/jasonereid/odin/blob/main/small-projects/rock-paper-scissors.js
