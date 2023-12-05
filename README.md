@@ -2,6 +2,12 @@
 
 Welcome to my GitHub page. Here I'll list out projects by their primary language and sort them in terms of difficulty. This will start with programming languages and move on to scripting languages, query languages, and then DevOps scripts.
 
+# HTML / CSS / JavaScript (frontend)
+- Cool 1 page form with password matching JavaScript - https://jasonereid.github.io/odin-sign-up-form/
+- Landing page - just HTML/CSS - https://jasonereid.github.io/odin/
+- Table assignment HTML CSS - https://github.com/jasonereid/odin/blob/main/tables.html - https://github.com/jasonereid/odin/blob/main/odintables.css
+- Landing page: https://jasonereid.github.io/odin/
+
 # RUBY
 
 ### Intermediate projects:
@@ -21,8 +27,6 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
 # JAVASCRIPT
 ### Advanced projects:
   - [JavaScript/HTML/CSS - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
-
-### Beginner projects:
 
 ## Node.js
   - [Node.JS practice apps and sites](https://github.com/jasonereid/node-js-practice)
@@ -53,13 +57,6 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
 1. [Hello World](https://github.com/jasonereid/java/blob/main/helloworld)
 2. [Working with Strings and Integers](https://github.com/jasonereid/java/blob/main/variables-strings-and-ints)
 3. 
-
-
-# HTML / CSS
-- Cool 1 page form with password matching JavaScript - https://jasonereid.github.io/odin-sign-up-form/
-- Landing page - just HTML/CSS - https://jasonereid.github.io/odin/
-- Table assignment HTML CSS - https://github.com/jasonereid/odin/blob/main/tables.html - https://github.com/jasonereid/odin/blob/main/odintables.css
-- Landing page: https://jasonereid.github.io/odin/
 
 # SQl, KQL, JSON and POWERSHELL
 ### KQL Scripts
