@@ -3,6 +3,7 @@
 Welcome to my GitHub page. Here I'll list out projects by their primary language and sort them in terms of difficulty. This will start with programming languages and move on to scripting languages, query languages, and then DevOps scripts.
 
 # HTML / CSS / JavaScript (frontend)
+- CSS Animations - project folder for things like animated popups, slide-in text, CSS rain, CSS menus https://github.com/jasonereid/odin/tree/main/animations
 - Cool 1 page form with password matching JavaScript - https://jasonereid.github.io/odin-sign-up-form/
 - Landing page - just HTML/CSS - https://jasonereid.github.io/odin/
 - Table assignment HTML CSS - https://github.com/jasonereid/odin/blob/main/tables.html - https://github.com/jasonereid/odin/blob/main/odintables.css
