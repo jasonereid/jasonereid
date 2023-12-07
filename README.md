@@ -30,13 +30,9 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
   - [JavaScript/HTML/CSS - IN PROGRESS - Learning Management System](https://github.com/jasonereid/lms)
 
 ## Node.js
+  - [Cool little Node.js web scraper that pulls prices from Amazon.com and compares it to last month's average to give you a change percentage](https://github.com/jasonereid/web-scraper/blob/main/index.js)
   - [Node.JS practice apps and sites](https://github.com/jasonereid/node-js-practice)
 
-## React
-
-## Angular
-
-## Three.js
 
 # PYTHON
 ### Advanced Projects
