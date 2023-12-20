@@ -25,7 +25,7 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
 - Tic Tac Toe console game for two players that re-draws the board between rounds - https://github.com/jasonereid/odin/blob/main/small-projects/tic-tac-toe.rb
 
 ## Ruby on Rails
-
+- Test app - https://github.com/jasonereid/my-first-rails-app
 
 # JAVASCRIPT
 ### Advanced projects:
