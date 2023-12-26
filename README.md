@@ -5,6 +5,7 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
 
 # HTML / CSS / JavaScript (frontend)
 ## Portfolio page - https://jasonereid.github.io/portfolio/
+<img src="https://github.com/jasonereid/jasonereid/assets/94079137/426c9695-5fd3-4059-a8e2-623ffe5a9a7f" width="300">
 ![image](https://github.com/jasonereid/jasonereid/assets/94079137/426c9695-5fd3-4059-a8e2-623ffe5a9a7f)
 
 - Library - book management system project - https://jasonereid.github.io/library/
