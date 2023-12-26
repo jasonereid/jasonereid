@@ -5,6 +5,7 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
 
 # HTML / CSS / JavaScript (frontend)
 ## Portfolio page - https://jasonereid.github.io/portfolio/
+- Library - book management system project - https://jasonereid.github.io/library/
 - Admin page template - https://jasonereid.github.io/admintemplate
 - CSS Animations - project folder for things like animated popups, slide-in text, CSS rain, CSS menus https://github.com/jasonereid/odin/tree/main/animations
 - Cool 1 page form with password matching JavaScript - https://jasonereid.github.io/odin-sign-up-form/
