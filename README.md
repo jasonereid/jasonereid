@@ -15,6 +15,8 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
 
 - Table assignment HTML CSS - https://github.com/jasonereid/odin/blob/main/tables.html - https://github.com/jasonereid/odin/blob/main/odintables.css
 - Landing page: https://jasonereid.github.io/odin/
+![image](https://github.com/jasonereid/jasonereid/assets/94079137/c3d2e13b-bb94-4b23-a386-a6ac28059493)
+
 
 # RUBY
 
