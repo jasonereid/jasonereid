@@ -9,6 +9,8 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
 - Admin page template - https://jasonereid.github.io/admintemplate
 - CSS Animations - project folder for things like animated popups, slide-in text, CSS rain, CSS menus https://github.com/jasonereid/odin/tree/main/animations
 - Cool 1 page form with password matching JavaScript - https://jasonereid.github.io/odin-sign-up-form/
+![image](https://github.com/jasonereid/jasonereid/assets/94079137/76190555-a61a-4d1d-a333-ae6912ff04fd)
+
 - Table assignment HTML CSS - https://github.com/jasonereid/odin/blob/main/tables.html - https://github.com/jasonereid/odin/blob/main/odintables.css
 - Landing page: https://jasonereid.github.io/odin/
 
