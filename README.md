@@ -3,7 +3,7 @@
 
 Welcome to my GitHub page. Here I'll list out projects by their primary language and sort them in terms of difficulty. This will start with programming languages and move on to scripting languages, query languages, and then DevOps scripts.
 
-# HTML / CSS / JavaScript (frontend)
+# Web Dev Projects
 
 ## Single Page Restaurant Website - Node.js, Express, Bootstrap 5 - https://github.com/jasonereid/restaurant-page/blob/main/README.md
 ![image](https://github.com/jasonereid/restaurant-page/assets/94079137/e8dca4aa-beb3-4789-adda-888c88bfff44)
