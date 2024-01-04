@@ -1,5 +1,5 @@
-![image](https://github.com/jasonereid/jasonereid/assets/94079137/130d5033-a4ca-4edd-b2e9-c61bcdc44603)👋 Hi, I’m @jasonereid | https://www.linkedin.com/in/jason-reid-906a4a229/
- - ###Web Developer | HTML5, CSS3, JavaScript | Bootstrap | Ruby, Python | Azure, AWS | DevOps | Cybersecurity### -
+👋 Hi, I’m @jasonereid | https://www.linkedin.com/in/jason-reid-906a4a229/
+ - ###Web Developer | HTML5, CSS3, JavaScript | Bootstrap | Node.js, Express | Ruby, Python | Azure, AWS | DevOps | Cybersecurity### -
 
 Welcome to my GitHub page. Here I'll list out projects by their primary language and sort them in terms of difficulty. This will start with programming languages and move on to scripting languages, query languages, and then DevOps scripts.
 
