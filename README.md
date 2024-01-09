@@ -5,8 +5,10 @@ Welcome to my GitHub page. Here I'll list out projects by their primary language
 
 # Web Dev Projects
 
-## Weather App - JavaScript, HTML5/CSS3, Bootstrap5 - hits an API and updates the DOM - https://jasonereid.github.io/weatherapp/
-![image](https://github.com/jasonereid/jasonereid/assets/94079137/96d269c0-a57a-4891-9e4c-fd483020fa53)
+## Weather App - JavaScript, HTML5/CSS3, Bootstrap5 - Responsive app that hits an API and updates the DOM - https://jasonereid.github.io/weatherapp/
+![image](https://github.com/jasonereid/jasonereid/assets/94079137/43466dae-9688-49c5-84fe-c0faaf42b681)
+https://github.com/jasonereid/weatherapp
+
 
 
 ## Single Page Restaurant Website - Node.js, Express, Bootstrap 5 - https://github.com/jasonereid/restaurant-page/blob/main/README.md
