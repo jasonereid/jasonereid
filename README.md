@@ -1,5 +1,9 @@
 👋 Hi, I’m @jasonereid | https://www.linkedin.com/in/jason-reid-906a4a229/
- - ###Web Developer | HTML5, CSS3, JavaScript | Bootstrap | Node.js, Express | Ruby, Python | Azure, AWS | DevOps | Cybersecurity### -
+
+ **Tech Stack**
+ ![image](https://github.com/jasonereid/jasonereid/assets/94079137/0781f1d8-f9c3-4a0d-b093-80cca66176c4) ![image](https://github.com/jasonereid/jasonereid/assets/94079137/05ac10ab-5eff-4a85-acd0-d8877bda8cf8) ![image](https://github.com/jasonereid/jasonereid/assets/94079137/f750b040-338e-4bfb-b371-8c4886f0c5af)  ![image](https://github.com/jasonereid/jasonereid/assets/94079137/a2ab28a2-54ac-4d76-9123-d76805b0e576) ![image](https://github.com/jasonereid/jasonereid/assets/94079137/d768ce59-1da3-42cd-ac7a-0fb2d06b689a) ![image](https://github.com/jasonereid/jasonereid/assets/94079137/a0003ec2-ce36-4aa8-9a49-3550779c702c)  ![image](https://github.com/jasonereid/jasonereid/assets/94079137/f81c4d0e-70ec-4eeb-9c95-89603269a137) ![image](https://github.com/jasonereid/jasonereid/assets/94079137/653c0e30-6427-45f1-a48f-01e88032dc62) ![image](https://github.com/jasonereid/jasonereid/assets/94079137/c302310a-b40e-42e3-9b8e-7ac58877df2e)
+
+
 
 Welcome to my GitHub page. Here I'll list out projects by their primary language and sort them in terms of difficulty. This will start with programming languages and move on to scripting languages, query languages, and then DevOps scripts.
 
