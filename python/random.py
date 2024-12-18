@@ -6,13 +6,15 @@ i = 0
 
 while i < 5:
   userNum = int(input("input a number between 1 and 20: "))
-
-  print("My number is " + str(randNum))
   print("Your number is " + str(userNum))
 
   if randNum == userNum:
     print("You guessed correctly!")
     break
+  elif randNum > userNum:
+    print("Your next guess should be higher")
+  elif randNum < userNum:
+    print("Your next guess should be lower")
   else: 
     print("wrong number")
     i += 1
