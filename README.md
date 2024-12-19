@@ -1,8 +1,5 @@
 👋 Hi, I’m @jasonereid | https://www.linkedin.com/in/jason-reid-906a4a229/
 
-# CISSP
-
-## CISSP Study Notes - https://github.com/jasonereid/cissp
 
 
 # Web Dev Projects
