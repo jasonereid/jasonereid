@@ -3,5 +3,5 @@
 # AI Agent Projects
 
 
-## Salesforce Agentforce !(https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg)
+## Salesforce Agentforce ![](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg)
 
