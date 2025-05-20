@@ -8,3 +8,4 @@ https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/3-agent
 
 ## Salesforce Agentforce
 
+https://trailhead.salesforce.com/content/learn/modules/introduction-to-agentforce/get-to-know-agentforce-functionality?trail_id=become-an-agentblazer-champion
