@@ -2,6 +2,9 @@
 
 # AI Agent Projects
 
+## Microsoft AI Agents
+https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/3-agent-development(https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/3-agent-development)
+
 
 ## Salesforce Agentforce
 
