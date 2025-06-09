@@ -3,14 +3,14 @@
 # AI Projects
 
 ## Ollama
-https://ollama.com/download(https://ollama.com/download)
+https://ollama.com/download
 
 ## Microsoft AI Agents
-https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/3-agent-development(https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/3-agent-development)
+https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/3-agent-development
 
 ## AutoGen
 
-https://microsoft.github.io/autogen/0.2/docs/tutorial/introduction(https://microsoft.github.io/autogen/0.2/docs/tutorial/introduction)
+https://microsoft.github.io/autogen/0.2/docs/tutorial/introduction
 
 ## Salesforce Agentforce
 
