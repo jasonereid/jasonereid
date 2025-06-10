@@ -8,6 +8,8 @@ https://ollama.com/download
 Successfully installed Ollama and ran llama2
 ![image](https://github.com/user-attachments/assets/2fd26763-7469-4b2e-9847-7146379b8649)
 
+### Simple llama2 math agent:
+https://github.com/jasonereid/llama2-agent
 
 ## Microsoft AI Agents
 https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/3-agent-development
